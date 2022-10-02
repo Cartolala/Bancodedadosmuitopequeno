@@ -1,0 +1,11 @@
+
+Carlos Eduardo	Rua Tudo	40000	2
+Eduardo Pereira	Rua Joao Santo	9191919	3
+Jose Carvalho	Rua Pereira,1	312312	4
+Jose Orvalho	Rua Teste, 5	10	5
+Jose Carlos	Rua Nada, 9	000000	6
+Pereira Carlos	Rua Tudo, 3	100000	7
+Pereira Carlos	Rua Corno Silva	3000	8
+Carlos	Rua Silva	450	9
+Carlos Eduardo Pereira Leite	Rua ilha Bela, 66	1	10
+Eduardo	Rua Nada, 1	3333333	11
